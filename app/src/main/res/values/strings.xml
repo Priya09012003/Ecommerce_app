@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">pia\'shop</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="organic_apple_sauce">Organic Apple sauce</string>
+    <string name="product_details">Product_Details</string>
+    <string name="see_if_it_s_available">See if it\'s available</string>
+    <string name="crop_tops">Crop Tops</string>
+    <string name="jeans">jeans</string>
+    <string name="kurtis">kurtis</string>
+    <string name="sarees">sarees</string>
+    <string name="buy_jeans_today">Buy jeans today!</string>
+    <string name="free_shipping">Free Shipping!</string>
+    <string name="buy_kurtis_today">Buy Kurtis today</string>
+    <string name="buy_crop_tops_today">Buy Crop Tops today!</string>
+    <string name="buy_partywear_today">Buy partywear today!</string>
+    <string name="buy_sarees_today">Buy sarees today!</string>
+    <string name="welcome_home">Welcome home!</string>
+    <string name="party_wear">party_wear</string>
+    <string name="textview">TextView</string>
+
+</resources>

@@ -1,0 +1,58 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.piashop.MainActivity"
+
+    >
+
+
+<group>
+
+
+    <item
+        android:id="@+id/actionHome"
+        android:orderInCategory="100"
+        android:icon="@drawable/baseline_monetization_on_24"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/Crop_tops"
+        android:orderInCategory="100"
+        android:icon="@drawable/croptop"
+        android:title="@string/crop_tops"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/jeans"
+        android:orderInCategory="100"
+        android:icon="@drawable/jeans"
+        android:title="@string/jeans"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/kurtis"
+        android:orderInCategory="100"
+        android:icon="@drawable/kurtis"
+        android:title="@string/kurtis"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/sarees"
+        android:orderInCategory="100"
+        android:icon="@drawable/sarees"
+        android:title="@string/sarees"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/party_wear"
+        android:orderInCategory="100"
+        android:icon="@drawable/partywear"
+        android:title="@string/party_wear"
+        app:showAsAction="never" />
+
+</group>
+
+
+
+</menu>
